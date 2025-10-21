@@ -56,9 +56,9 @@ cd ScoreManagement
 
 students.txt 파일 형식: (각 항목은 탭(\t)으로 구분)
 
-[학번]&emsp;	[이름]&emsp;	[중간점수]&emsp;	[기말점수]  
-20230001&emsp;	KimJaeHwan&emsp;	95&emsp;	85  
-20230002&emsp;	LeeSuJin&emsp;	70&emsp;	75  
+[학번]&emsp;&emsp;&emsp;	[이름]&emsp;&emsp;&emsp;	[중간점수]&emsp;	[기말점수]  
+20230001&emsp;	KimJaeHwan&emsp;	95&emsp;&emsp;&emsp;	&emsp;85  
+20230002&emsp;	LeeSuJin&emsp;&emsp;&emsp;	70&emsp;&emsp;&emsp;	&emsp;75  
 ...
 
 <br>
